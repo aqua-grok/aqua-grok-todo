@@ -6,7 +6,7 @@ Python初心者が、Grokと対話しながら完成させました。
 
 ## スクリーンショット
 
-[スクリーンショット](images/screenshot.png)
+![スクリーンショット](https://github.com/aqua-grok/aqua-grok-todo/blob/main/screenshot.png)
 
 ## 特徴
 
