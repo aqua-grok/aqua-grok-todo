@@ -28,7 +28,7 @@ Python初心者が、Grokと対話しながら完成させました。
 
 最新版のEXEはこちらからダウンロードできます。
 
-→ [Releases](https://github.com/aqua-grok/aqua-grok-todo/releases)
+→ [Releases](https://github.com/aqua-grok/aqua-grok-todo/releases/tag/v1.0.0)
 
 ## 使い方
 
